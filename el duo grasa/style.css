@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://cdn.discordapp.com/attachments/903765402990039042/1159990297057558608/T7Ckfg2.png?ex=65330826&is=65209326&hm=d833423dac378593242711893ba51c2c3b5da0d87f17b69a00020491b3a8dce4&');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.container{
+    margin-left: 40%;
+}
+
+.titulos{
+    margin-left: -70%;
+    text-align: center;
+    color: white;
+    font-size: 40px;   
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30%;
+}
+
+.radar{
+    width: 220px;
+}
+
+.imgs{
+    margin-left: -35%;
+}
+
+.oro{
+    height: 220px;
+}
